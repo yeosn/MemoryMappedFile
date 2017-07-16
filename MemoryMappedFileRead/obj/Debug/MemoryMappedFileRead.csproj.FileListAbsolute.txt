@@ -1,0 +1,8 @@
+H:\VSProjects\MemoryMappedFileWrite\MemoryMappedFileRead\bin\Debug\MemoryMappedFileRead.exe.config
+H:\VSProjects\MemoryMappedFileWrite\MemoryMappedFileRead\bin\Debug\MemoryMappedFileRead.exe
+H:\VSProjects\MemoryMappedFileWrite\MemoryMappedFileRead\bin\Debug\MemoryMappedFileRead.pdb
+H:\VSProjects\MemoryMappedFileWrite\MemoryMappedFileRead\obj\Debug\MemoryMappedFileRead.Properties.Resources.resources
+H:\VSProjects\MemoryMappedFileWrite\MemoryMappedFileRead\obj\Debug\MemoryMappedFileRead.csproj.GenerateResource.Cache
+H:\VSProjects\MemoryMappedFileWrite\MemoryMappedFileRead\obj\Debug\MemoryMappedFileRead.exe
+H:\VSProjects\MemoryMappedFileWrite\MemoryMappedFileRead\obj\Debug\MemoryMappedFileRead.pdb
+H:\VSProjects\MemoryMappedFileWrite\MemoryMappedFileRead\obj\Debug\MemoryMappedFileTest.Form1.resources

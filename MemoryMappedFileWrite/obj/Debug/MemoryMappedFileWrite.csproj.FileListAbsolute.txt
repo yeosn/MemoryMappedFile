@@ -1,0 +1,10 @@
+H:\VSProjects\MemoryMappedFileWrite\MemoryMappedFileWrite\bin\Debug\MemoryMappedFileWrite.exe.config
+H:\VSProjects\MemoryMappedFileWrite\MemoryMappedFileWrite\bin\Debug\MemoryMappedFileWrite.exe
+H:\VSProjects\MemoryMappedFileWrite\MemoryMappedFileWrite\bin\Debug\MemoryMappedFileWrite.pdb
+H:\VSProjects\MemoryMappedFileWrite\MemoryMappedFileWrite\obj\Debug\MemoryMappedFileWrite.csprojResolveAssemblyReference.cache
+H:\VSProjects\MemoryMappedFileWrite\MemoryMappedFileWrite\obj\Debug\MemoryMappedFileWrite.Properties.Resources.resources
+H:\VSProjects\MemoryMappedFileWrite\MemoryMappedFileWrite\obj\Debug\MemoryMappedFileWrite.csproj.GenerateResource.Cache
+H:\VSProjects\MemoryMappedFileWrite\MemoryMappedFileWrite\obj\Debug\MemoryMappedFileWrite.exe
+H:\VSProjects\MemoryMappedFileWrite\MemoryMappedFileWrite\obj\Debug\MemoryMappedFileWrite.pdb
+H:\VSProjects\MemoryMappedFileWrite\MemoryMappedFileWrite\obj\Debug\MemoryMappedFileTest.Form1.resources
+H:\VSProjects\MemoryMappedFileWrite\MemoryMappedFileWrite\obj\Debug\MemoryMappedFileTest.Form2.resources
